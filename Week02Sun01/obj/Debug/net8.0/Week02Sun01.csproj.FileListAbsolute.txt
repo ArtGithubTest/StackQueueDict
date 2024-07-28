@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\bin\Debug\net8.0\Week02Sun01.exe
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\bin\Debug\net8.0\Week02Sun01.deps.json
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\bin\Debug\net8.0\Week02Sun01.runtimeconfig.json
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\bin\Debug\net8.0\Week02Sun01.dll
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\bin\Debug\net8.0\Week02Sun01.pdb
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\Week02Sun01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\Week02Sun01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\Week02Sun01.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\Week02Sun01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\Week02Sun01.dll
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\refint\Week02Sun01.dll
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\Week02Sun01.pdb
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\Week02Sun01.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Fundamentals\4. C# Advanced Features\Week02Sun01\Week02Sun01\obj\Debug\net8.0\ref\Week02Sun01.dll
